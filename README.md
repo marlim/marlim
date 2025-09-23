@@ -6,6 +6,7 @@ Engenheiro TI
 
 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e MBA em Big Data, Gestão de Dados e Analytics. Tenho 11 anos de experiência na área de desenvolvimento de sistemas, com especialização no setor bancário, tendo trabalhado em empresas como HSBC, Bradesco e Itaú. 
 Durante minha carreira, foquei em criar automações e dashboards que otimizam as operações diárias, principalmente nas áreas de Operações.
+Atualmente atuo como Analista de Dados focado em democratização de dados na AWS, utilizando Glue, Athena e SageMaker para construir pipelines e disponibilizar dados de forma acessível.
 Sou entusiasta da resolução de problemas e participei de diversas Maratonas e Hackathons. Tive o prazer de conquistar o 1º lugar no 1º Hackathon Bradesco, na categoria de Comunicação, além de obter o 3º lugar na Maratona de IA Bradesco em parceria com a IBM.
 
 
