@@ -34,9 +34,10 @@ Certified AWS Cloud Practitioner, with a proven track record of hackathon and in
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marlim&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
 </a>
 
+
 🎓 **Certificações**
 
 - 🟡 **AWS Certified Cloud Practitioner**  
   Emitido por Amazon Web Services (AWS)  
   Data de obtenção: Fevereiro/2025  
-  ![AWS](https://cp.certmetrics.com/amazon/en/public/verify/credential/892c030239c14006ae2061654ee62060)
+  [![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/892c030239c14006ae2061654ee62060)
