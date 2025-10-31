@@ -24,7 +24,13 @@ Certified AWS Cloud Practitioner, with a proven track record of hackathon and in
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### 🎓 Certificações
 
+- 🟡 **AWS Certified Cloud Practitioner**  
+  Emitido por Amazon Web Services (AWS)  
+  Data de obtenção: Fevereiro/2025  
+  [![Verify](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=verify&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/892c030239c14006ae2061654ee62060)
+  
 ### 📲 Você pode me encontrar em
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-thiago-resende/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlim)
@@ -35,9 +41,4 @@ Certified AWS Cloud Practitioner, with a proven track record of hackathon and in
 </a>
 
 
-🎓 **Certificações**
 
-- 🟡 **AWS Certified Cloud Practitioner**  
-  Emitido por Amazon Web Services (AWS)  
-  Data de obtenção: Fevereiro/2025  
-  [![Verify](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/892c030239c14006ae2061654ee62060)
