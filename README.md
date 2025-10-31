@@ -39,4 +39,4 @@ Certified AWS Cloud Practitioner, with a proven track record of hackathon and in
 - 🟡 **AWS Certified Cloud Practitioner**  
   Emitido por Amazon Web Services (AWS)  
   Data de obtenção: Fevereiro/2025  
-  [Ver credencial](https://cp.certmetrics.com/amazon/en/public/verify/credential/892c030239c14006ae2061654ee62060)
+  ![AWS](https://cp.certmetrics.com/amazon/en/public/verify/credential/892c030239c14006ae2061654ee62060)
