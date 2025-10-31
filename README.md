@@ -10,7 +10,7 @@ Atualmente atuo como Analista de Dados focado em democratização de dados na AW
 Sou entusiasta da resolução de problemas e participei de diversas Maratonas e Hackathons. Tive o prazer de conquistar o 1º lugar no 1º Hackathon Bradesco, na categoria de Comunicação, além de obter o 3º lugar na Maratona de IA Bradesco em parceria com a IBM.
 
 
-English Version
+### 🇺🇸 English Version
 
 Data Analyst & Software Engineer with a strong foundation in software development and data engineering, and over 12 years of experience in the financial sector.
 Currently focused on modernizing data processes and building data democratization pipelines using AWS cloud solutions (Lambda, DynamoDB, Glue, Amazon S3), Infrastructure as Code (Terraform), ETL, and Python.
